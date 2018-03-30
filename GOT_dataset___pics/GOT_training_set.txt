@@ -1,0 +1,145 @@
+appear to be male?,have any facial hair?,look older than 20?,look older than 40?,have brown hair?,look overweight?,have blonde hair?,look like a fighter?,have rather pale skin?,have red hair?,hold a weapon?,carry something (excluding sword)?,wear very few items of clothing?,have something on/covering their head?,
+yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,no,Ned Stark
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,Kahl Drogo
+yes,yes,yes,yes,yes,yes,no,no,no,no,no,yes,no,yes,Robert Baratheon
+yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Bronn
+no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Sansa Stark
+yes,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,Viserys Targaryen
+no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,Arya Stark
+no,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,Cersei Lannister
+yes,yes,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,Hodor
+no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,Danaerys Targaryen
+yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,Tywin Lannister
+yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jaqen H’Ghar
+yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,Littlefinger
+no,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,Melisandre
+yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Stannis Baratheon
+yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,Samwell Tarley
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jon Snow
+yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,Tyrion Lannister
+yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,Joffrey “Baratheon”
+no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,Brienne of Tarth
+no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,Ygritte
+yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no,no,no,Jaime Lannister
+yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,The Hound
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Robb Stark
+yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,no,no,Ned Stark
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,Kahl Drogo
+yes,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,Robert Baratheon
+yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,Bronn
+no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Sansa Stark
+no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,Viserys Targaryen
+no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,Arya Stark
+no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,Cersei Lannister
+yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,Hodor
+no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,Danaerys Targaryen
+yes,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,no,Tywin Lannister
+yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Jaqen H’Ghar
+yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,Littlefinger
+no,no,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,Melisandre
+yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,Stannis Baratheon
+yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,Samwell Tarley
+yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,Jon Snow
+yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,Tyrion Lannister
+yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,Joffrey “Baratheon”
+yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,Brienne of Tarth
+no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,Ygritte
+yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,no,Jaime Lannister
+yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,The Hound
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Robb Stark
+yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,no,Ned Stark
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,Kahl Drogo
+yes,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,Robert Baratheon
+yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Bronn
+no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Sansa Stark
+yes,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,Viserys Targaryen
+no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,Arya Stark
+no,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,Cersei Lannister
+yes,yes,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,Hodor
+no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,Danaerys Targaryen
+yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,Tywin Lannister
+yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jaqen H’Ghar
+yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,Littlefinger
+no,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,Melisandre
+yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Stannis Baratheon
+yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,Samwell Tarley
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jon Snow
+yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,Tyrion Lannister
+yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,Joffrey “Baratheon”
+no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,Brienne of Tarth
+no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,Ygritte
+yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no,no,no,Jaime Lannister
+yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,The Hound
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Robb Stark
+yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,no,Ned Stark
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,Kahl Drogo
+yes,yes,yes,yes,yes,yes,no,no,no,no,no,yes,no,yes,Robert Baratheon
+yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Bronn
+no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Sansa Stark
+yes,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,Viserys Targaryen
+no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,Arya Stark
+no,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,Cersei Lannister
+yes,yes,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,Hodor
+no,no,yes,no,no,no,yes,no,no,no,yes,yes,yes,no,Danaerys Targaryen
+yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,Tywin Lannister
+yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jaqen H’Ghar
+yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,Littlefinger
+no,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,Melisandre
+yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Stannis Baratheon
+yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,Samwell Tarley
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jon Snow
+yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,Tyrion Lannister
+yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,Joffrey “Baratheon”
+no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,Brienne of Tarth
+no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,Ygritte
+yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no,no,no,Jaime Lannister
+yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,The Hound
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Robb Stark
+yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,no,no,Ned Stark
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,Kahl Drogo
+yes,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,Robert Baratheon
+yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,Bronn
+no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Sansa Stark
+no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,Viserys Targaryen
+no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,Arya Stark
+no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,Cersei Lannister
+yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,Hodor
+no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,Danaerys Targaryen
+yes,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,no,Tywin Lannister
+yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Jaqen H’Ghar
+yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,Littlefinger
+no,no,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,Melisandre
+yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,Stannis Baratheon
+yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,Samwell Tarley
+yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,Jon Snow
+yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,Tyrion Lannister
+yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,Joffrey “Baratheon”
+yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,Brienne of Tarth
+no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,Ygritte
+yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,no,Jaime Lannister
+yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,The Hound
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Robb Stark
+yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,no,Ned Stark
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,Kahl Drogo
+yes,yes,yes,yes,yes,yes,no,no,no,no,no,yes,no,yes,Robert Baratheon
+yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Bronn
+no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Sansa Stark
+yes,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,Viserys Targaryen
+no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,Arya Stark
+no,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,Cersei Lannister
+yes,yes,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,Hodor
+no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,Danaerys Targaryen
+yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,Tywin Lannister
+yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jaqen H’Ghar
+yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,Littlefinger
+no,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,Melisandre
+yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,Stannis Baratheon
+yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,Samwell Tarley
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Jon Snow
+yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,Tyrion Lannister
+yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,Joffrey “Baratheon”
+no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,Brienne of Tarth
+no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,Ygritte
+yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no,no,no,Jaime Lannister
+yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,The Hound
+yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,Robb Stark
